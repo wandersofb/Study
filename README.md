@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/97051625_p0_master1200.webp
+coverY: 0
+---
+
 # 学习之旅
 
 #### 第七周2022/05/16-2022/05/22
